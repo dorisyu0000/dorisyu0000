@@ -1,10 +1,10 @@
 # Hi! My name is Doris, Miaomiao Yu 👋
 
-🌍  I am a psychology researcher based in New York, US.
+🌍  I am a researcher based in Seattle, US.
 
 ## 📘 Quick Facts
 
-- 🎓 Currently Psychology Graduate student of New York University
+- 🎓 Currently a graduate student at the University of Washington, Seattle
 - 🌍 Love coding and gaming
 
 ## 🛠 Skills
