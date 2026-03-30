@@ -1,11 +1,15 @@
-# Hi! My name is Doris, Miaomiao Yu 👋
+# Hi, I'm Doris (Miaomiao Yu) 👋
 
-🌍  I am a researcher based in Seattle, US.
+I'm a researcher at the **University of Washington, Seattle**, working at the intersection of behavioral science and computational modeling. I study how people make decisions in social environments — how they plan when collaborating or competing, coordinate with teammates, predict rivals' moves, and navigate the complex social dynamics that shape everyday choices. My work combines reinforcement learning models with behavioral experiments to uncover the cognitive processes underlying judgment and choice.
+
+---
 
 ## 📘 Quick Facts
 
-- 🎓 Currently a graduate student at the University of Washington, Seattle
-- 🌍 Love coding and gaming
+- 🎓 Graduate student @ University of Washington, Seattle
+- 🧠 Research focus: social cognition, consumer decision-making, computational modeling
+- 🎮 Love coding and gaming (sometimes simultaneously)
+- 🌍 Based in Seattle, US 
 
 ## 🛠 Skills
 
@@ -14,6 +18,6 @@
 
 ## 📫 Connect With Me
 
-- **Email:** [Send an email](mailto:my2689@nyu.edu)
+- **Email:** [Send an email](mailto:dorisyu@uw.edu)
 
 Thanks for stopping by! 😊
